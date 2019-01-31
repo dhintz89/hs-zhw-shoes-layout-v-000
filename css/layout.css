@@ -39,5 +39,5 @@
 }
 
 [class*="col-"] {
-  margin
+  margin-left: 2px;
 }
