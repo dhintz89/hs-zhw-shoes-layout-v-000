@@ -26,12 +26,12 @@
 
 .col-1 {
   float: left;
-  size: 32%
+  width: 32%
 }
 
 .col-2 {
   float: left;
-  size: 66%
+  width: 66%
 }
 
 .col-3 {
